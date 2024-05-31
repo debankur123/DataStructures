@@ -1,0 +1,16 @@
+D:\DataStructures\DataStructures\DataStructures\bin\Debug\net5.0\DataStructures.exe
+D:\DataStructures\DataStructures\DataStructures\bin\Debug\net5.0\DataStructures.deps.json
+D:\DataStructures\DataStructures\DataStructures\bin\Debug\net5.0\DataStructures.runtimeconfig.json
+D:\DataStructures\DataStructures\DataStructures\bin\Debug\net5.0\DataStructures.runtimeconfig.dev.json
+D:\DataStructures\DataStructures\DataStructures\bin\Debug\net5.0\DataStructures.dll
+D:\DataStructures\DataStructures\DataStructures\bin\Debug\net5.0\DataStructures.pdb
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.csproj.AssemblyReference.cache
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.AssemblyInfoInputs.cache
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.AssemblyInfo.cs
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.csproj.CoreCompileInputs.cache
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.dll
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\ref\DataStructures.dll
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.pdb
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.genruntimeconfig.cache
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\refint\DataStructures.dll
