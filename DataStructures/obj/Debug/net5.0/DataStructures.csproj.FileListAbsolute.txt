@@ -14,3 +14,4 @@ D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\ref\DataStructu
 D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.pdb
 D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.genruntimeconfig.cache
 D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\refint\DataStructures.dll
+D:\DataStructures\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.sourcelink.json

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DataStructures\\DataStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97559C-4E50-4DAE-9C10-513F7194DC6B}|DataStructures\\DataStructures.csproj|d:\\datastructures\\datastructures\\datastructures\\basicmaths\\sumofdivisors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97559C-4E50-4DAE-9C10-513F7194DC6B}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\basicmaths\\sumofdivisors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97559C-4E50-4DAE-9C10-513F7194DC6B}|DataStructures\\DataStructures.csproj|d:\\datastructures\\datastructures\\datastructures\\basicmaths\\gcd\u0026lcm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97559C-4E50-4DAE-9C10-513F7194DC6B}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\basicmaths\\gcd\u0026lcm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97559C-4E50-4DAE-9C10-513F7194DC6B}|DataStructures\\DataStructures.csproj|d:\\datastructures\\datastructures\\datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97559C-4E50-4DAE-9C10-513F7194DC6B}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB97559C-4E50-4DAE-9C10-513F7194DC6B}|DataStructures\\DataStructures.csproj|d:\\datastructures\\datastructures\\datastructures\\basicmaths\\basicmaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB97559C-4E50-4DAE-9C10-513F7194DC6B}|DataStructures\\DataStructures.csproj|solutionrelative:datastructures\\basicmaths\\basicmaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\DataStructures\\Program.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Program.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\DataStructures\\Program.cs",
+              "RelativeToolTip": "DataStructures\\Program.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:14:36.137Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicMaths.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\DataStructures\\BasicMaths\\BasicMaths.cs",
+              "RelativeDocumentMoniker": "DataStructures\\BasicMaths\\BasicMaths.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\DataStructures\\BasicMaths\\BasicMaths.cs",
+              "RelativeToolTip": "DataStructures\\BasicMaths\\BasicMaths.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwCwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T12:08:19.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GCD\u0026LCM.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\DataStructures\\BasicMaths\\GCD\u0026LCM.cs",
+              "RelativeDocumentMoniker": "DataStructures\\BasicMaths\\GCD\u0026LCM.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\DataStructures\\BasicMaths\\GCD\u0026LCM.cs",
+              "RelativeToolTip": "DataStructures\\BasicMaths\\GCD\u0026LCM.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:42:04.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumOfDivisors.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\DataStructures\\BasicMaths\\SumOfDivisors.cs",
+              "RelativeDocumentMoniker": "DataStructures\\BasicMaths\\SumOfDivisors.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\DataStructures\\BasicMaths\\SumOfDivisors.cs",
+              "RelativeToolTip": "DataStructures\\BasicMaths\\SumOfDivisors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:14:12.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

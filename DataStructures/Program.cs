@@ -1,6 +1,6 @@
-﻿
-using DataStructures.BasicMaths;
+﻿using DataStructures.BasicMaths;
 using System;
+using System.Collections.Generic;
 
 namespace DataStructures
 {
@@ -24,8 +24,9 @@ namespace DataStructures
                     {
                         Console.WriteLine("Invalid number. Please enter a valid integer.");
                     }
+
                     break;
-            //---------------------------------------------------------------------
+                //---------------------------------------------------------------------
                 case "2":
                     Console.WriteLine("Enter the number:");
                     var evenlyDigitInput = Console.ReadLine();
@@ -38,6 +39,7 @@ namespace DataStructures
                     {
                         Console.WriteLine("Invalid number. Please enter a valid integer.");
                     }
+
                     break;
                 //-------------------------------------------------------------------------
                 case "ReverseOfInteger":
@@ -52,6 +54,7 @@ namespace DataStructures
                     {
                         Console.WriteLine("Invalid number. Please enter a valid integer.");
                     }
+
                     break;
                 //-------------------------------------------------------------------------
                 case "IsPalindrome":
@@ -66,6 +69,7 @@ namespace DataStructures
                     {
                         Console.WriteLine("Invalid number. Please enter a valid integer.");
                     }
+
                     break;
                 //-------------------------------------------------------------------------
                 case "IsArmstrong":
@@ -80,9 +84,10 @@ namespace DataStructures
                     {
                         Console.WriteLine("Invalid number. Please enter a valid integer.");
                     }
+
                     break;
 
-//-----------------------------------------------------------------------------------------
+                //-----------------------------------------------------------------------------------------
                 case "PrintAllFactors":
                     Console.WriteLine("Enter the number:");
                     var input2 = Console.ReadLine();
@@ -94,8 +99,9 @@ namespace DataStructures
                     {
                         Console.WriteLine("Invalid number. Please enter a valid integer.");
                     }
+
                     break;
-//-----------------------------------------------------------------------------------------
+                //-----------------------------------------------------------------------------------------
                 case "IsPrimeOrNotOptimal":
                     Console.WriteLine("Enter the number:");
                     var input3 = Console.ReadLine();
@@ -107,6 +113,49 @@ namespace DataStructures
                     else
                     {
                         Console.WriteLine("Invalid number. Please enter a valid integer.");
+                    }
+
+                    break;
+                //--------------------------------------------------------------------------------------------------
+                case "FindGcd":
+                    Console.WriteLine("Enter the first number:");
+                    var gcdVal1 = Console.ReadLine();
+
+                    Console.WriteLine("Enter the second number:");
+                    var gcdVal2 = Console.ReadLine();
+
+                    if (int.TryParse(gcdVal1, out var gcdParam1) && int.TryParse(gcdVal2, out var gcdParam2))
+                    {
+                        var obj = new GCD_LCM();
+                        obj.GcdByEuclideanProcess(gcdParam1, gcdParam2);
+                        //Console.WriteLine($"The GCD of {gcdParam1} and {gcdParam2} is: {result}");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid number. Please enter valid integers.");
+                    }
+                    break;
+                //-----------------------------------------------------------------------------------------
+                case "QuadraticEquation":
+                    Console.WriteLine("Enter the first coefficient:");
+                    var quadVal1 = Console.ReadLine();
+
+                    Console.WriteLine("Enter the second coefficient:");
+                    var quadVal2 = Console.ReadLine();
+
+                    Console.WriteLine("Enter the third coefficient:");
+                    var quadVal3 = Console.ReadLine();
+
+                    if (int.TryParse(quadVal1, out var quadParam1) && int.TryParse(quadVal2, out var quadParam2)&& int.TryParse(quadVal3, out var quadParam3))
+                    {
+                        var obj = BasicMaths.BasicMaths.QuadraticRoots(quadParam1, quadParam2, quadParam3);
+                        foreach(var items in obj) {
+                            Console.Write($"The roots is/are {items}" + " ");
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid number. Please enter valid integers.");
                     }
                     break;
 
