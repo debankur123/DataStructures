@@ -25,7 +25,7 @@ namespace DataStructures.BasicMaths
             while (n != 0)
             {
                 var lastDigit = n % 10;
-                sum += (lastDigit * lastDigit * lastDigit);
+                sum += lastDigit * lastDigit * lastDigit;
                 n /= 10;
             }
             return sum == temp ? "Yes" : "No";
@@ -44,7 +44,8 @@ namespace DataStructures.BasicMaths
                 roots.Add(Math.Max(root1,root2));
                 roots.Add(Math.Min(root1, root2));
             }
-            else if (discrimination == 0) {
+            else
+            {
                 int singleRoot = -b / (2 * a);
                 roots.Add(singleRoot);
             }
